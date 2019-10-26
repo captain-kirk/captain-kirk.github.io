@@ -1,9 +1,7 @@
 ---
 title:  "Getting Started in Tech"
-categories: tech
+categories: examples
 ---
-
-# Getting Started in Tech 
 
 When people ask me how I got into tech, I usually tell them I had the most traditional path. And it’s true, I did things the old fashioned way: went to college, majored in math & computer science, graduated, got an internship, and after two months I transitioned to full time as an engineer. While I will say that yes, most of the other engineers and developers I work with went to college, this isn’t the only path. I’ve worked with people from various backgrounds; some had a career in a completely different field before transitioning to tech. 
 
@@ -27,7 +25,9 @@ Keep in mind that you don’t have to enroll in a 4 year degree program right aw
 Bootcamps are popping up all over the country. Why? Because they are both more cost and time effective than college. Think of bootcamps as trade schools for people who want to become developers. I’ve worked with many developers who went to bootcamp and they stand out as some of the most well rounded people in engineering.  Each bootcamp has its own type of courses: back end, front end, full stack, data science, UX, cybersecurity, iOS development, the list goes on. Take the time to figure out what you might be interested in doing with your tech skills before you settle on a program. Remember: tech jobs exists everywhere, not just within tech companies.  Though I cannot specifically recommend one bootcamp or the other, here are a few examples to get you started on your research:  
 
 https://lambdaschool.com/
+
 https://www.epicodus.com/
+
 https://www.fullstackacademy.com/
 
 ## Teach yourself
