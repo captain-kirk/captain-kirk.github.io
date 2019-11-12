@@ -50,7 +50,9 @@ Follow the same approach listed above to solve these problems.
 Once you are confident in your Python skills, I challenge you to write an API. If you are unfamiliar with the concept, here are some resources:
 
 [Building a Basic RESTful API in Python](https://www.codementor.io/sagaragarwal94/building-a-basic-restful-api-in-python-58k02xsiq)
+
 [Python API Tutorial](https://www.dataquest.io/blog/python-api-tutorial/)
+
 [Absolute Beginner’s Guide to Slaying APIs Using Python](https://medium.com/quick-code/absolute-beginners-guide-to-slaying-apis-using-python-7b380dc82236)
 
 
