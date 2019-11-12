@@ -15,9 +15,9 @@ Before taking the aforementioned class, I had never used Python before. We learn
 
 If you’d like to take the Python 3 course, you’ll need to sign up for the Pro version of the site. This is not necessary, in my opinion. Starting with the Python 2 course is a great first step. 
 
-If you’ve already started learning Python, I recommend you jump right into a more advanced course. Upon my own research I discovered the Become a Data Scientist course on codeacademy. It requires the Pro version. You can start with a trail and see if it suits your learning style. 
-
 [Become a Data Scientist](https://www.codecademy.com/learn/paths/data-science)
+
+If you’ve already started learning Python, I recommend you jump right into a more advanced course. Upon my own research I discovered the Become a Data Scientist course on codeacademy. It requires the Pro version. You can start with a trail and see if it suits your learning style. 
 
 ## Practicing Your Python Skills
 
