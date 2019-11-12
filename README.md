@@ -4,7 +4,7 @@ permalink: "/about/"
 ---
 
 Kirkland Tech Consulting was founded in 2019 with two main goals: 
-1. providing RFPs for companies looking to use cloud serivces to address their technological needs
+1. providing RFPs for companies looking to use cloud services to address their technological needs
 2. educating those interested in entering a tech career, such as Security, Infrastructure, DevOps, SRE, AWS Solutions Architect, or Cloud Operations Engineer.
 
 Services offered by Kirkland Tech Consulting:
