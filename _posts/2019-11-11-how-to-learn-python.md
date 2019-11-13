@@ -3,7 +3,7 @@ title:  "How to: Learn Python"
 categories: guides, how-tos
 ---
 
-When people who want to learn how to code, I generally tell them to start with Python. In my opinion, Python is the easiest language to digest if you have no programming experience. Why? Python is easily human readable. It is a logical language, meaning it's easy to pick up (due to its readability) and THEN pick up the concepts behind programming languages. The language itself is pretty intuitive. Python lacks the syntax requirements of languages such as C# and Java. The documentation is easy to understand. Given all this, YOU (yes you) can start writing programs today. With Python you can write with very simple programs with little experience.
+When people who want to learn how to code ask me where to start, I generally tell them to start with Python. In my opinion, Python is the easiest language to digest if you have no programming experience. Why? Python is easily human readable. It is a logical language, meaning it's easy to pick up writing code (due to its readability) and THEN pick up the concepts behind programming languages. The language itself is pretty intuitive. Python lacks the syntax requirements of languages such as C# and Java. The documentation is easy to understand. Given all this, YOU (yes you) can start writing programs today. With Python you can write with very simple programs with little experience.
 
 In 2015, I took an Intro to Data Science course. The following post is based off the rubric created by that class, taught by Peter Drake.
 
@@ -17,11 +17,11 @@ If you’d like to take the Python 3 course, you’ll need to sign up for the Pr
 
 [Become a Data Scientist](https://www.codecademy.com/learn/paths/data-science)
 
-If you’ve already started learning Python, I recommend you jump right into a more advanced course. Upon my own research I discovered the Become a Data Scientist course on codeacademy. It requires the Pro version. You can start with a trail and see if it suits your learning style. 
+If you’ve already started learning Python, I recommend you jump right into a more advanced course. Upon my own research, I discovered the Become a Data Scientist course on codeacademy. It also requires the Pro version. You can start with a trial and see if it suits your learning style. 
 
 ## Practicing Your Python Skills
 
-In my data science course, we wrote scripts to solve real life problems. This is the key to mastering programming: understanding how to address every day programs with code. You want to be able to encounter a problem and figure out how to solve that problem using your language of choice. 
+In my data science course, we wrote scripts to solve real life problems. This is the key to mastering programming: understanding how to address every day programs with code. You want to encounter a problem and figure out how to solve that problem using your language of choice. 
 
 The first step to this is pseudocode. When developers write pseudocode, they are using plain English to define each step of their algorithm or script. Writing out the steps of your solution is always an important beginning step to writing code. 
 
@@ -31,7 +31,7 @@ Our brains remember things better when they are conceptualized in real life solu
 
 One important application of data science is in DNA and genetic coding. If you remember high school biology, you will recall terms such as RNA, amino acids, and proteins. Roslind is named after Rosalind Franklin, an important figure in the discovery of DNA, RNA, coal, graphite, and viruses. 
 
-Rosalind uses presents problems based on concepts of bioinformatics. It presents problems and then checks them automatically. The way you choose to implement is your choice. For each problem, a Google search is certain to reveal a number of implementations. 
+Rosalind's problems are based on concepts of bioinformatics. You are able to check your solution immediately. The way you choose to implement is your choice. For each problem, a Google search is certain to reveal a number of implementations. 
 
 To solve Rosalind problems I recommend taking the following approach:
 
