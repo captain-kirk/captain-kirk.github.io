@@ -11,7 +11,7 @@ Services offered by Kirkland Tech Consulting:
 * AWS Security Best Practices Evaluation and Remediation
 * Architect your backend using cloud services
 * Build and configure databases for your application
-* Guidance on common SOC2 and NIST controls, their implementations, and evaluation 
-* Automating audits required by compliance or business contracts 
+* Provide guidance on common SOC2 and NIST controls, their implementations, and evaluation 
+* Automate audits required by compliance or business contracts 
 
 Email kirklandtechconsulting@gmail.com for any inqueries. 
