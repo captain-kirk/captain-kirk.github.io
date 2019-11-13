@@ -37,11 +37,11 @@ To solve Rosalind problems I recommend taking the following approach:
 
 1. Make sure you understand the problem. Google any terms of concepts you don’t understand. Find YouTube videos that explain things you don’t understand. There are countless resources at your disposal. 
 2. Once you understand the concept behind your problem, write pseudocode. Write out each step you required to transform your input to the expected output. Find examples of pseudocode online to become more familiar with the various approaches. 
-3. Now write code. Use concepts and tools such as loops, lists, dictionaries, functions, and libraries to solve your problem. Stack Overflow is an excellent resource for finding examples of implementation and usage. Be careful not to spoil your solution! 
+3. Now, write code. Use concepts and tools such as loops, lists, dictionaries, functions, and libraries to solve your problem. Stack Overflow is an excellent resource for finding examples of implementation and usage. Be careful not to spoil your solution! 
 
 [Project Euler](https://projecteuler.net/archives)
 
-If you’re the kind of person who likes math, sequences, or puzzles, Project Euler is for you. The site offers a long list of computational problems that can be solved by computer programs. For instance, a problem might challenge you to find the first 100 numbers of the Fibonnaci sequence. 
+If you’re the kind of person who likes math, sequences, or puzzles, Project Euler is for you. The site offers a long list of computational problems that can be solved by computer programs. For instance, a problem might challenge you to find the first 100 numbers of the Fibonnaci sequence. It’s named after Euler, an important mathematician in 
 
 Follow the same approach listed above to solve these problems.
 
@@ -54,5 +54,3 @@ Once you are confident in your Python skills, I challenge you to write an API. I
 [Python API Tutorial](https://www.dataquest.io/blog/python-api-tutorial/)
 
 [Absolute Beginner’s Guide to Slaying APIs Using Python](https://medium.com/quick-code/absolute-beginners-guide-to-slaying-apis-using-python-7b380dc82236)
-
-
