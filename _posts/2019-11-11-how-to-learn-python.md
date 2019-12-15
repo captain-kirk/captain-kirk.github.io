@@ -48,5 +48,3 @@ Once you are confident in your Python skills, I challenge you to write an API. I
 [Python API Tutorial](https://www.dataquest.io/blog/python-api-tutorial/)
 
 [Absolute Beginner’s Guide to Slaying APIs Using Python](https://medium.com/quick-code/absolute-beginners-guide-to-slaying-apis-using-python-7b380dc82236)
-
-
