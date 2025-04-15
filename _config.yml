@@ -4,6 +4,7 @@ description: "your insider's guide to tech"
 permalink: /:title/
 lang: "en"
 
+remote_theme: "jekyll/minima@1e8a445"
 show_footer: false           # show the "previous" and "next" links at the end of each post
 dark_theme: false            # use the dark mode as default
 dark_header: true            # keep the header dark
